@@ -3,9 +3,10 @@ import PackageDescription
 
 let package = Package(
     name: "NSObject-Rx",
+    defaultLocalization: "en",
     platforms: [
         .iOS(.v9),
-        .macOS(.v10_14)
+        .macOS(.v12)
     ],
     products: [
         .library(name: "NSObject-Rx", targets: ["NSObject-Rx"]),
