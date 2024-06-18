@@ -5,7 +5,7 @@ let package = Package(
     name: "NSObject-Rx",
     defaultLocalization: "en",
     platforms: [
-        .iOS(.v9),
+        .iOS(.v12),
         .macOS(.v12)
     ],
     products: [

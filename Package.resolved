@@ -1,16 +1,14 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "RxSwift",
-        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
-        "state": {
-          "branch": null,
-          "revision": "7c17a6ccca06b5c107cfa4284e634562ddaf5951",
-          "version": "6.2.0"
-        }
+  "pins" : [
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FountainheadMobileSolutions/RxSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a0169431d766aeb2373ef90f24dca10647092576"
       }
-    ]
-  },
-  "version": 1
+    }
+  ],
+  "version" : 2
 }
