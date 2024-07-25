@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/FountainheadMobileSolutions/RxSwift",
       "state" : {
-        "branch" : "main",
-        "revision" : "a0169431d766aeb2373ef90f24dca10647092576"
+        "branch" : "topic/xcode16",
+        "revision" : "e11aa287d8eb40c2ec687546da54866852a16640"
       }
     }
   ],
