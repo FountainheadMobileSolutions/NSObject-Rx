@@ -12,7 +12,7 @@ let package = Package(
         .library(name: "NSObject-Rx", targets: ["NSObject-Rx"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/FountainheadMobileSolutions/RxSwift", branch: "main")
+        .package(url: "https://github.com/FountainheadMobileSolutions/RxSwift", branch: "topic/xcode16")
     ],
     targets: [
         .target(
