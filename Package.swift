@@ -6,7 +6,7 @@ let package = Package(
     defaultLocalization: "en",
     platforms: [
         .iOS(.v12),
-        .macOS(.v12)
+        .macOS(.v13)
     ],
     products: [
         .library(name: "NSObject-Rx", targets: ["NSObject-Rx"]),
